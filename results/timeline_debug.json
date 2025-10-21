@@ -1,0 +1,96 @@
+{
+  "story_summary": "한국 폴리텍 AI융합소프트웨어과의 활기찬 캠퍼스와 학생들이 코딩에 몰두하는 모습을 통해 실무 중심의 교육을 강조하며, 학생들이 미래의 IT 전문가로 성장할 수 있도록 돕는다는 메시지를 전달합니다.",
+  "timeline": [
+    {
+      "type": "video",
+      "filename": "20241030_155020.mp4",
+      "text": "학생들이 코딩에 몰두하는 모습",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "type": "subtitle",
+      "filename": null,
+      "text": "코딩, 이렇게 재밌어?",
+      "start": 0.0,
+      "end": 3.0
+    },
+    {
+      "type": "image",
+      "filename": "campus_info.jpg",
+      "text": "한국폴리텍대학 캠퍼스 전경",
+      "start": 3.0,
+      "end": 8.0
+    },
+    {
+      "type": "subtitle",
+      "filename": null,
+      "text": "활기찬 캠퍼스의 아침",
+      "start": 3.0,
+      "end": 8.0
+    },
+    {
+      "type": "video",
+      "filename": "20241030_155020.mp4",
+      "text": "C 언어 수업 장면",
+      "start": 8.0,
+      "end": 13.0
+    },
+    {
+      "type": "subtitle",
+      "filename": null,
+      "text": "배열과 포인터를 배우는 시간",
+      "start": 8.0,
+      "end": 13.0
+    },
+    {
+      "type": "image",
+      "filename": "incheonpolritek_aiyunghap.jpg",
+      "text": "AI 융합 소프트웨어과 포스터",
+      "start": 13.0,
+      "end": 18.0
+    },
+    {
+      "type": "subtitle",
+      "filename": null,
+      "text": "미래의 IT 전문가로 성장",
+      "start": 13.0,
+      "end": 18.0
+    },
+    {
+      "type": "video",
+      "filename": "20241030_155020.mp4",
+      "text": "학생들이 코드를 완성하는 장면",
+      "start": 18.0,
+      "end": 23.0
+    },
+    {
+      "type": "subtitle",
+      "filename": null,
+      "text": "우리가 해냈어!",
+      "start": 18.0,
+      "end": 23.0
+    },
+    {
+      "type": "image",
+      "filename": "3826_4110_1730712928.jpg",
+      "text": "미래적이고 사이버네틱한 이미지",
+      "start": 23.0,
+      "end": 27.0
+    },
+    {
+      "type": "subtitle",
+      "filename": null,
+      "text": "당신의 미래를 설계하세요!",
+      "start": 23.0,
+      "end": 27.0
+    },
+    {
+      "type": "audio",
+      "filename": null,
+      "text": "배경 음악",
+      "start": 0.0,
+      "end": 30.0
+    }
+  ]
+}
